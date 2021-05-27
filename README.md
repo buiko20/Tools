@@ -1,14 +1,12 @@
-search:
-	grepWin
+__search:__
+* grepWin
 
-security:
-	KeePass 2
-	iis crypto
-	Strong-Name Signer (https://brutaldev.com/post/net-assembly-strong-name-signer)
+__security:__
+* KeePass 2
+* iis crypto
+* Strong-Name Signer (https://brutaldev.com/post/net-assembly-strong-name-signer)
+* Burp Suite Community Edition
 	
-fidler like:
-	Burp Suite Community Edition
-	
-decompilers:
-	ILSpy.exe
-	JetBrains dotPeek
+__decompilers:__
+* ILSpy.exe
+* JetBrains dotPeek
