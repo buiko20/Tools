@@ -10,3 +10,6 @@ __security:__
 __decompilers:__
 * ILSpy.exe
 * JetBrains dotPeek
+
+__Nugets:__
+* BenchmarkDotNet
