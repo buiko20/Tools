@@ -16,3 +16,4 @@ __NuGets:__
 
 __Other:__
 * dependencywalker
+* process monitor
