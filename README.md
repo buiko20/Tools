@@ -11,5 +11,8 @@ __decompilers:__
 * ILSpy.exe
 * JetBrains dotPeek
 
-__Nugets:__
+__NuGets:__
 * BenchmarkDotNet
+
+__Other:__
+* dependencywalker
